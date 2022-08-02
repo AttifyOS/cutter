@@ -1,2 +1,3 @@
-# cutter
-The cutter package for AttifyOS
+# Cutter
+
+Free and Open Source Reverse Engineering Platform powered by rizin.
